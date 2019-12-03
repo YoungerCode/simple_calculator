@@ -1,21 +1,5 @@
 
-'''def add(*n):
-    sum =0
-    for num in n:
-        sum +=num
-    return sum
-
-
-def multiply(*n):
-    sum =1
-    for num in n:
-        sum *=num
-    return sum
-
-print(add(1,2))
-print(multiply(2,2))'''
-
-
+   
 import test_function as t
 
 def test_add():
