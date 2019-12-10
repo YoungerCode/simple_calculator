@@ -8,6 +8,8 @@ def test_add():
     assert t.add(4,5)== 9
     assert t.add(1,2)== 3
     assert t.add(1,2,3,4)== 10
+      
+ def test_multply():
     assert t.multiply(1,2) == 2
     assert t.multiply(1,2,3,4) == 24
 
