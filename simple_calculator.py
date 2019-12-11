@@ -1,5 +1,3 @@
-
-
 def add(*n):
     sum =0
     for num in n:
