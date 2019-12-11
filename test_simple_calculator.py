@@ -1,5 +1,3 @@
-
-   
 import test_function as t
 
 def test_add():
